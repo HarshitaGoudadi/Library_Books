@@ -1,0 +1,11 @@
+nav{
+    height: 100px;
+    background-color: rgb(236, 187, 157);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 0px 8px 40px rgba(0, 0, 0, 0.473) ;
+    position:sticky;
+    top: 0;
+    
+}

@@ -1,0 +1,13 @@
+.profile-page{
+    border: 1px solid rgb(57, 144, 179);
+    width: 40%;
+    border-radius: 5%;
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      margin-left: 30%;
+      position :absolute;
+      top: 30%;  
+      box-shadow: 8px 8px 20px lightblue;
+  }

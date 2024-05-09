@@ -1,0 +1,22 @@
+
+.form-container{
+    width: 600px;
+    align-items: center;
+    display: flex;
+    
+    justify-content: center;
+    margin: auto;
+   margin-top: 25vh;
+   border-radius: 55px;
+   border: solid 1px black;
+   box-shadow: 8px 8px 20px lightblue;
+}
+.form-container form h1{
+   border:"1px solid dark"
+}
+
+body{
+  background-image: url("https://www.shutterstock.com/image-photo/book-stack-on-wood-desk-260nw-570458902.jpg");
+  background-repeat: no-repeat;
+background-size: cover;
+}

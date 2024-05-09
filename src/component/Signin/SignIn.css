@@ -1,0 +1,22 @@
+
+.form-container{
+    width: 600px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+   margin-top: 25vh;
+   border-radius: 55px;
+   border: solid 1px black;
+   box-shadow: 8px 8px 20px lightblue;
+  
+}
+.form-container form h1{
+   border:"1px solid dark"
+}
+
+.heading-block{
+ margin-left: auto;
+ 
+}
